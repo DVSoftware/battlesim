@@ -1,0 +1,51 @@
+{
+	armies: [
+		{
+			name: 'Army 1',
+			squads: [
+				{
+					strategy: 'weakest',
+					units: 8
+				},
+				{
+					strategy: 'random',
+					units: 5
+				},
+				{
+					strategy: 'weakest',
+					units: 8
+				},
+			],
+		},
+		{
+			name: 'Army 2',
+			squads: [
+				{
+					strategy: 'random',
+					units: 5
+				},
+				{
+					strategy: 'strongest',
+					units: 6
+				},
+				{
+					strategy: 'strongest',
+					units: 7
+				},
+			],
+		},
+		{
+			name: 'Army 3',
+			squads: [
+				{
+					strategy: 'strongest',
+					units: 5
+				},
+				{
+					strategy: 'weakest',
+					units: 10
+				},
+			],
+		},
+	]
+}
