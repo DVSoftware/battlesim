@@ -11,8 +11,6 @@
   "dependencies": {
     "compute-gmean": "^1.1.0",
     "config": "^1.24.0",
-    "lodash": "^4.17.2",
-    "multi-progress": "^2.0.0",
-    "progress": "^1.1.8"
+    "lodash": "^4.17.2"
   }
 }
